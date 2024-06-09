@@ -1,1 +1,1 @@
-The portfolio site is a personal website designed to display an individual's professional accomplishments, skills, and work samples. It serves as a digital resume. So here is Portfolio site created by using React.js,and deployed on github pages.
+The portfolio site is a personal website designed to display an individual's professional accomplishments, skills, and work samples. It serves as a digital resume. 👩‍💻 So here is Portfolio site created by using React.js,and deployed on github pages.
